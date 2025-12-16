@@ -1,0 +1,15 @@
+name: maye-stats
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - beautifulsoup4
+  - requests
+  - pandas
+  - lxml
+  - scikit-learn
+  - xgboost
+  - lightgbm
+  - matplotlib
+  - openpyxl
+prefix: /Users/jasonwu/anaconda3/envs/maye-stats
